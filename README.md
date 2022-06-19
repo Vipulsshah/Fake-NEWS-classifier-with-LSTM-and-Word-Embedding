@@ -6,4 +6,4 @@
 4) Used LSTM RNN technique to get the maximum accuracy.
 5) Built the Model using Word Embedding layer to get the feature matrix.
 6) Used LSTM, Dropout and Dense layers to build a Sequential Model.
-7)Got the Train accuracy of 98%, validation accuracy of 92% and Test accuracy of 91.89%.
+7) Got the Train accuracy of 98%, validation accuracy of 92% and Test accuracy of 91.89%.
